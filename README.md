@@ -1,8 +1,12 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# GIF Search App
 
-Currently, two official plugins are available:
+The GIF Search App is an application that allows users to search for GIFs and perform various actions such as sharing and downloading them. Currently under development, it is being enhanced with features like a "like" button to save your favorite GIFs and a list of popular topics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **GIF Search:** Easily search for GIFs using keywords or phrases.
+- **Sharing:** Share your favorite GIFs with friends and family through various platforms.
+- **Download:** Download GIFs to your device for offline viewing.
+- **Favorites:** Save and organize your preferred GIFs with the "like" button.
+- **Trending Topics:** Explore a list of popular GIF topics for quick access to trending content.

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { AddCategory, GifGrid } from './components';
 
-export const GifExpertApp = () => {
+export const GifSearchApp = () => {
 
     const [categories, setCategories] = useState(['Sakura Card Captor']);
 
@@ -17,7 +17,7 @@ export const GifExpertApp = () => {
     return (
         <>
 
-            <h1>Gif Aplication </h1>
+            <h1>GIF Search App</h1>
 
             <AddCategory
                 // setCategories={ setCategories } 
