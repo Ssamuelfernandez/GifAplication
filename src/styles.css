@@ -72,6 +72,10 @@
   cursor: pointer;
 }
 
+.like-button:hover {
+  transform: scale(1.2);
+}
+
 .like-button svg {
   font-size: 35px;
   color: #ffffff;
