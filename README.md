@@ -1,7 +1,7 @@
 
 # GIF Search App
 
-The GIF Search App is an application that allows users to search for GIFs and perform various actions such as sharing and downloading them. Currently under development, it is being enhanced with features like a "like" button to save your favorite GIFs and a list of popular topics.
+The GIF Search App is an application that allows users to search for GIFs and perform various actions such as sharing and downloading them. It now stores your favorite GIFs in the browser's **localStorage** so they remain available even after you reload the page. Development continues with additional features like a list of popular topics.
 
 ## Features
 
